@@ -125,11 +125,11 @@ The analysis is performed on the **Fertility2.csv** dataset.
 
 ### Phase 1
 
-[Open Phase 1 EDA Notebook](./Phase_1_EDA_Project.ipynb)
+[Open Phase 1 EDA Notebook]([./Phase_1_EDA_Project.ipynb](https://colab.research.google.com/github/Vishwajitp18/Pawar-Vishwajit-Sanjay/blob/main/Phase_1_EDA_Project.ipynb)
 
 ### Phase 2
 
-[Open Phase 2 Statistical Analysis & Clustering Notebook](./EDA_PhaseII.ipynb)
+[Open Phase 2 Statistical Analysis & Clustering Notebook]([./EDA_PhaseII](https://colab.research.google.com/github/Vishwajitp18/Pawar-Vishwajit-Sanjay/blob/main/Phase_1_EDA_Project.ipynb)
 
 ---
 
